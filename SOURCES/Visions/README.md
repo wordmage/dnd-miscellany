@@ -15,3 +15,5 @@ You have been chosen by a certain pantheon to wield great power: a control over 
 - Visions can work in aiding any opportune adventuring moment. Your Vision acts as a spellcasting focus and alongside that, you can use it to conjure simple manifestations of your elements.
 - A mechanic for elemental reactions, allowing you to exploit a creature's structure and the elements imbued within them. These reactions are plentiful, helping you in taking down mighty foes, or giving you brief respite with meaningful resistances.
 - Augment your Vision with secondary feats. These feats give your Vision even more power, such as granting permanent resistance, or adding a second effect to your elementally-charged attacks.
+
+**Author**: Word Mage (github@wordmage), inspired by the video game *Genshin Impact* by miHoYo.
