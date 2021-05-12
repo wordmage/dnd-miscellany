@@ -48,13 +48,12 @@ An Otterfolk’s name is granted to them after they reach maturity. To an Otterf
 - ***Darkvision.*** Accustomed to murky waters, your vision can ascertain shapes in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
 - ***Silent Swim.*** Whenever you make a Dexterity (Stealth) check while swimming, you are considered proficient in the Stealth skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus.
 - ***Excellent Memory.*** You can accurately recall anything you have seen or heard within the past month. Deeds and deceits you encounter leave a lasting impression on you.
-- ***Otr's Grace.*** You have proficiency in the Insight skill and you have advantage on saving throws you make to avoid or end the charmed condition.
-- ***Languages.*** You can speak, read, and write Common, Aquan, and Sylvan.
+- ***Tools of Trade.*** You gain proficiency with two kinds of artisan’s tools of your choice.
+- ***Otr's Grace.*** You have advantage on saving throws against illusions and against being charmed or paralyzed.
+- ***Languages.*** You can speak, read, and write Common, Dwarvish, and one extra language of your choice.
 ----
 
-## Feats
-
-These are optional feats that Otterfolk can take, which you can take by using the optional feats rule.
+## Optional Feats
 
 ### Otr's Eye
 *Prerequisite: Otterfolk*
@@ -63,8 +62,8 @@ These are optional feats that Otterfolk can take, which you can take by using th
 Feywild is teeming with trickery; however, your eyes are adept at seeking through these deceits:
 
 - Increase your Wisdom score by 1, to a maximum of 20.
-- Your proficiency bonus is doubled for any check you make with the Insight skill.
-- You learn *dispel magic* and you can cast it without expending a spell slot to disperse any spell from the school of illusion. You can cast the spell in this way a number of times equal to your proficiency bonus, and you regain any expended uses when you finish a short or long rest.
+- Whenever you are discerning lies or disguises, you add double your proficiency bonus to the check you make with the Wisdom (Insight) and Wisdom (Perception) skills, even if you're not normally proficient.
+- You learn *dispel magic* and you can cast it without expending a spell slot against any spell from the school of illusion. You can cast the spell in this way a number of times equal to your proficiency bonus, and you regain any expended uses when you finish a short or long rest.
 
 ### Oathbound
 *Prerequisite: Otterfolk*
@@ -72,8 +71,8 @@ Feywild is teeming with trickery; however, your eyes are adept at seeking throug
 ---
 You are bound by an oath, a duty, or a job and you are constantly reminded of it by your unconscious mind:
 
-- Increase your Wisdom score by 1, to a maximum of 20.
-- When you have an expendable dice (such as Sorcerer's sorcery points or Monk's ki points), you can regain its expended uses without taking a short or long rest. By using this ability, you regain a number of expended dice equal to half of your proficiency bonus (minimum of 1). You can only regain one type of expendable dice with this ability. Once you use this ability, you can't use it again until the next dawn.
+- Increase your Wisdom or Charisma score by 1, to a maximum of 20.
+- When you have an expendable dice (such as Sorcerer's sorcery points or Monk's ki points), you can regain its expended uses without taking a short or long rest. By using this ability, you regain a number of expended dice equal to your proficiency bonus. You can only regain one type of expendable dice with this ability. Once you use this ability, you can't use it again until you finish a long rest.
 
 ### Feywild Mercantile
 *Prerequisite: Otterfolk*
@@ -83,4 +82,4 @@ You consistently master the art of barter. You gain the following benefits:
 
 - Increase your Wisdom or Charisma score by 1, to a maximum of 20.
 - You learn three languages of your choice.
-- Whenever you are trading with a creature that can understand you, you can't be disadvantaged in any check you make with the Persuasion and Insight skills.
+- Whenever you are trading with a creature that can understand you, you can't be disadvantaged in any check you make with the Charisma (Persuasion) and Wisdom (Insight) skills.
