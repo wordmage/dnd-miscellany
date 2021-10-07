@@ -45,7 +45,7 @@ Feywild is teeming with trickery; however, your eyes are adept at seeking throug
 
 - Increase your Wisdom score by 1, to a maximum of 20.
 - Whenever you are discerning lies or disguises, you add double your proficiency bonus to the check you make with the Wisdom (Insight) and Wisdom (Perception) skills, even if you're not normally proficient.
-- You learn *dispel magic* and you can cast it without expending a spell slot against any spell from the school of illusion. You can cast the spell in this way a number of times equal to your proficiency bonus, and you regain any expended uses when you finish a short or long rest. Wisdom  is your spellcasting ability when you cast the spell in this way.
+- You learn *dispel magic* and you can cast it without expending a spell slot when used against any spell from the school of illusion. You can cast the spell in this way a number of times equal to your proficiency bonus, and you regain any expended uses when you finish a short or long rest. Wisdom  is your spellcasting ability when you cast the spell in this way.
 
 ### Oathbound
 *Prerequisite: Otterfolk*
@@ -54,7 +54,7 @@ Feywild is teeming with trickery; however, your eyes are adept at seeking throug
 You are bound by an oath, a duty, or a job and you are constantly reminded of it by your unconscious mind:
 
 - Increase your Wisdom or Charisma score by 1, to a maximum of 20.
-- Once after a long rest, you can regain a number of expendable dice (such as Sorcerer's sorcery points or Monk's ki points) equal to your proficiency bonus. You can only regain one type of expendable dice.
+- Once per long rest, you can regain a number of expendable points (such as Sorcerer's sorcery points or Monk's ki points) equal to your proficiency bonus. If you have multiple of such points, you can only regain one type of them.
 
 ### Feywild Mercantile
 *Prerequisite: Otterfolk*
