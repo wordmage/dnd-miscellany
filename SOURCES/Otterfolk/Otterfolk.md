@@ -1,21 +1,3 @@
-<style>
-  .phb{
-    width : 210mm;
-    height : 296.8mm;
-  }
-</style>
-
-<style>
-  /* Drop Cap settings */
-  .phb h1 + p::first-letter {
-    float: left;
-    font-family: Solberry;
-    font-size: 8em;
-    color: #222;
-    line-height: .8em;
-  }
-</style>
-
 # Otterfolk
 
 In the treachery and mischievous wonders of the Feywild, one can find the veritable and noble Otterfolk. The Otterfolk represent the quality unfound in most of Feywild: dutiful respect and equality of contract.
@@ -63,7 +45,7 @@ Feywild is teeming with trickery; however, your eyes are adept at seeking throug
 
 - Increase your Wisdom score by 1, to a maximum of 20.
 - Whenever you are discerning lies or disguises, you add double your proficiency bonus to the check you make with the Wisdom (Insight) and Wisdom (Perception) skills, even if you're not normally proficient.
-- You learn *dispel magic* and you can cast it without expending a spell slot against any spell from the school of illusion. You can cast the spell in this way a number of times equal to your proficiency bonus, and you regain any expended uses when you finish a short or long rest.
+- You learn *dispel magic* and you can cast it without expending a spell slot against any spell from the school of illusion. You can cast the spell in this way a number of times equal to your proficiency bonus, and you regain any expended uses when you finish a short or long rest. Wisdom  is your spellcasting ability when you cast the spell in this way.
 
 ### Oathbound
 *Prerequisite: Otterfolk*
@@ -72,7 +54,7 @@ Feywild is teeming with trickery; however, your eyes are adept at seeking throug
 You are bound by an oath, a duty, or a job and you are constantly reminded of it by your unconscious mind:
 
 - Increase your Wisdom or Charisma score by 1, to a maximum of 20.
-- When you have an expendable dice (such as Sorcerer's sorcery points or Monk's ki points), you can regain its expended uses without taking a short or long rest. By using this ability, you regain a number of expended dice equal to your proficiency bonus. You can only regain one type of expendable dice with this ability. Once you use this ability, you can't use it again until you finish a long rest.
+- Once after a long rest, you can regain a number of expendable dice (such as Sorcerer's sorcery points or Monk's ki points) equal to your proficiency bonus. You can only regain one type of expendable dice.
 
 ### Feywild Mercantile
 *Prerequisite: Otterfolk*
